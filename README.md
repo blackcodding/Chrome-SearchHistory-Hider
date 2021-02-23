@@ -6,6 +6,8 @@ A simple but very effective extension 👌 to hide your personal history without
 
 Here is the google chrome history hiding extension replacing your search history section with cool image or gif.
 
+![screenshot](https://github.com/blackcodding/Chrome-SearchHistory-Hider/blob/master/image/Cover.gif)
+
 # Usage
 
 Go to chrome and start developer mode -> Go to extentions and add my custom extension to the chrome (Upload the whole folder)
