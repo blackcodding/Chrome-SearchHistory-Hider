@@ -14,4 +14,4 @@ Go to chrome and start developer mode -> Go to extentions and add my custom exte
 
 # Features
 
-Now hide your history from others without using ingognito mode! 😎😎
+Now hide your history from others without using ingognito mode! 😎
